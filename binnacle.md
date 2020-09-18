@@ -1,6 +1,6 @@
 #Flujo
 
-1. Genes con problemas en las matrices de expresion
+1. Genes con problemas en las matrices de expresion (son 76)
   3974.44679218112, 10.229126072513, ...
 
 2. Genes de los hakllmarks que no tienen biomart
